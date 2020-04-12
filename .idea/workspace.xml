@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="78f6c9f1-9d31-4f99-a5de-d626ec232d75" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/opencv.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/yetube.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yejidtube.py" beforeDir="false" afterPath="$PROJECT_DIR$/yetube.py" afterDir="false" />
-    </list>
+    <list default="true" id="78f6c9f1-9d31-4f99-a5de-d626ec232d75" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -241,12 +236,20 @@
       <option name="project" value="LOCAL" />
       <updated>1586707367047</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="version 1.0 with exec file issue">
+      <created>1586710101403</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1586710101403</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial prroject 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial prroject 2" />
+    <MESSAGE value="version 1.0 with exec file issue" />
+    <option name="LAST_COMMIT_MESSAGE" value="version 1.0 with exec file issue" />
   </component>
   <component name="WindowStateProjectService">
     <state x="413" y="110" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1586541937478">
@@ -257,10 +260,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="402" y="0" key="#index/0.0.1366.728@0.0.1366.728" timestamp="1586262367367" />
-    <state x="337" y="0" key="CommitChangelistDialog2" timestamp="1586707365000">
+    <state x="337" y="0" key="CommitChangelistDialog2" timestamp="1586710099258">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="337" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1586707365000" />
+    <state x="337" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1586710099258" />
     <state width="1345" height="367" key="GridCell.Tab.0.bottom" timestamp="1586707871473">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -301,10 +304,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="378" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1586462860065" />
-    <state x="492" y="316" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1586661218507">
+    <state x="492" y="316" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1586710116740">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="492" y="316" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1586661218507" />
+    <state x="492" y="316" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1586710116740" />
     <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1586542117173">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
