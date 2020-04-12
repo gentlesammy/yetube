@@ -37,7 +37,7 @@ submit_button = Button(yejidtube, text="DOWNLOAD VIDEO", width=34, bg="white", f
 submit_button.place(x=150, y=260)
 
 reply_box = Label(yejidtube,
-                  text="NOTE: \n * Enter the correct youtube link for downloading  .\n * Click download video ONCE and"
+                  text="NOTE: \n * Enter the correct youtube link for downloading  .\n * Click download video ONCE and "
                        "wait for it to download \n *Your downloaded video will be stored in c:/yetube",
                   fg="skyblue", bg="black")
 reply_box.place(x=210, y=400)
