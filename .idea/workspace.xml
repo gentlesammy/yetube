@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="78f6c9f1-9d31-4f99-a5de-d626ec232d75" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yejidtube.py" beforeDir="false" afterPath="$PROJECT_DIR$/yejidtube.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/youtuber.py" beforeDir="false" afterPath="$PROJECT_DIR$/youtuber.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,7 +57,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="tinkter1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="opencv" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -69,7 +69,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\DELL\PycharmProjects\opencv\tinkter1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -144,10 +144,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.yejidtube" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.youtuber" />
         <item itemvalue="Python.read" />
         <item itemvalue="Python.write" />
-        <item itemvalue="Python.youtuber" />
-        <item itemvalue="Python.tinkter1" />
       </list>
     </recent_temporary>
   </component>
@@ -162,7 +162,19 @@
       <option name="presentableId" value="Default" />
       <updated>1586261396537</updated>
     </task>
+    <task id="LOCAL-00001" summary="initial prroject 2">
+      <created>1586661268118</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1586661268118</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial prroject 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial prroject 2" />
   </component>
   <component name="WindowStateProjectService">
     <state x="413" y="110" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1586541937478">
@@ -173,22 +185,42 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="402" y="0" key="#index/0.0.1366.728@0.0.1366.728" timestamp="1586262367367" />
-    <state width="1345" height="367" key="GridCell.Tab.0.bottom" timestamp="1586661207643">
+    <state x="337" y="0" key="CommitChangelistDialog2" timestamp="1586661266013">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="367" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586661207643" />
-    <state width="1345" height="367" key="GridCell.Tab.0.center" timestamp="1586661207643">
+    <state x="337" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1586661266013" />
+    <state width="1345" height="367" key="GridCell.Tab.0.bottom" timestamp="1586707352048">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="367" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1586661207643" />
-    <state width="1345" height="367" key="GridCell.Tab.0.left" timestamp="1586661207643">
+    <state width="1345" height="367" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586707352048" />
+    <state width="1345" height="367" key="GridCell.Tab.0.center" timestamp="1586707352048">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="367" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1586661207643" />
-    <state width="1345" height="367" key="GridCell.Tab.0.right" timestamp="1586661207643">
+    <state width="1345" height="367" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1586707352048" />
+    <state width="1345" height="367" key="GridCell.Tab.0.left" timestamp="1586707352048">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="367" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1586661207643" />
+    <state width="1345" height="367" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1586707352048" />
+    <state width="1345" height="367" key="GridCell.Tab.0.right" timestamp="1586707352048">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="367" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1586707352048" />
+    <state width="1345" height="239" key="GridCell.Tab.1.bottom" timestamp="1586700775568">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="239" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586700775568" />
+    <state width="1345" height="239" key="GridCell.Tab.1.center" timestamp="1586700775568">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="239" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1586700775568" />
+    <state width="1345" height="239" key="GridCell.Tab.1.left" timestamp="1586700775568">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="239" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1586700775568" />
+    <state width="1345" height="239" key="GridCell.Tab.1.right" timestamp="1586700775568">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="239" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1586700775568" />
     <state x="184" y="6" key="SettingsEditor" timestamp="1586532077706">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
