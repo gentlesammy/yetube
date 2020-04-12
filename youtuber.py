@@ -6,9 +6,8 @@ def download_video(link):
         yt = pytube.YouTube(link)
         dw = yt.streams.first()
         dw.download('C:/yetube')
-        print('file downloaded')
+        return 'file downloaded'
     except:
-        print('unable to download', link)
-
+        return 'unable to download', link
 
 
